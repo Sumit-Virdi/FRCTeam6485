@@ -20,6 +20,6 @@ public class OI {
 		return xbox.getRawAxis(axis);
 	}
 	public double getJoystickControllerAxis(int axis) {
-		return xbox.getRawAxis(axis);
+		return joystick.getRawAxis(axis);
 	}
 }
