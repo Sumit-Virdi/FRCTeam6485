@@ -25,7 +25,7 @@ public class Elevator extends PIDSubsystem{
     boolean override = false;
     
     public double[] setPoints = {
- /// We'll set these later  ///
+ /// We'll set these later  //
     };
     
     public int[] feet = {
